@@ -1,0 +1,10 @@
+{
+  "name": "dantweb/wp-md-exporter",
+  "description": "WordPress plugin to export posts to Markdown and package them into a ZIP archive",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4",
+    "erusev/parsedown": "^1.7"
+  }
+}
